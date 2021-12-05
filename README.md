@@ -1,5 +1,5 @@
 # learnteralab
-
+ini adalah komen pertama saya untuk menentukan apakah bisa dilakukan perbaikan
 ## Build Setup
 
 ```bash
